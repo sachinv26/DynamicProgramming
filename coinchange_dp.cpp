@@ -20,7 +20,6 @@ int countways(int coins[],int n,int s)
         }
     }
     return dp[n][s];
-
 }
 
 int main()
